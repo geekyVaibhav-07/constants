@@ -1,0 +1,19 @@
+{
+  "name": "@geekcorp/constants",
+  "version": "1.0.0",
+  "description": "a package which has commonly used constants and their descriptions to ease communication between microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekyVaibhav-07/constants.git"
+  },
+  "author": "Vaibhav Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekyVaibhav-07/constants/issues"
+  },
+  "homepage": "https://github.com/geekyVaibhav-07/constants#readme"
+}
